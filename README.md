@@ -1,7 +1,7 @@
 
 ## Live Link
 
-https://mern-loginform.netlify.app/login
+https://mern-loginform.netlify.app
 
 # Getting Started with Create React App
 
