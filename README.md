@@ -3,6 +3,9 @@
 
 https://mern-loginform.netlify.app
 
+• Username: test@gmail.com
+• Password: Test@1234
+
 ## Sample Video
 
 
